@@ -2,7 +2,5 @@ langchain
 langchain-core
 langchain-openai
 langchain-huggingface
-openai
 huggingface_hub
-python-dotenv
-pydantic
+
