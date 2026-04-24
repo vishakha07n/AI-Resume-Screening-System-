@@ -31,29 +31,6 @@ Final Output + LangSmith Tracing
 - LangSmith (Tracing & Debugging)
 - VS Code / Jupyter Notebook
 
-## Project Structure
-```
-resume-screening/
-│
-├── prompts/
-│   ├── extract_prompt.py
-│   ├── match_prompt.py
-│   ├── score_prompt.py
-│   ├── explain_prompt.py
-│
-├── chains/
-│   ├── extract_chain.py
-│   ├── match_chain.py
-│   ├── score_chain.py
-│   ├── explain_chain.py
-│
-├── sample_data.py
-├── main.py
-├── .env
-├── requirements.txt
-└── README.md
-```
-
 ## Sample Input
 - Job Description
 Python
